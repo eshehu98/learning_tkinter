@@ -6,3 +6,4 @@ a = Label(root, text = "Hello, world!")
 a.pack()
 
 root.mainloop()
+
